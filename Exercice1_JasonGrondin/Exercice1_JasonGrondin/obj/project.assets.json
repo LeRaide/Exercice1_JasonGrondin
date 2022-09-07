@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tijas\\Desktop\\ExerciceProg\\Exercice1_JasonGrondin\\Exercice1_JasonGrondin\\Exercice1_JasonGrondin.csproj",
+      "projectUniqueName": "C:\\Users\\tijas\\Documents\\GitHub\\Exercice1_JasonGrondin\\Exercice1_JasonGrondin\\Exercice1_JasonGrondin\\Exercice1_JasonGrondin.csproj",
       "projectName": "Exercice1_JasonGrondin",
-      "projectPath": "C:\\Users\\tijas\\Desktop\\ExerciceProg\\Exercice1_JasonGrondin\\Exercice1_JasonGrondin\\Exercice1_JasonGrondin.csproj",
+      "projectPath": "C:\\Users\\tijas\\Documents\\GitHub\\Exercice1_JasonGrondin\\Exercice1_JasonGrondin\\Exercice1_JasonGrondin\\Exercice1_JasonGrondin.csproj",
       "packagesPath": "C:\\Users\\tijas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tijas\\Desktop\\ExerciceProg\\Exercice1_JasonGrondin\\Exercice1_JasonGrondin\\obj\\",
+      "outputPath": "C:\\Users\\tijas\\Documents\\GitHub\\Exercice1_JasonGrondin\\Exercice1_JasonGrondin\\Exercice1_JasonGrondin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

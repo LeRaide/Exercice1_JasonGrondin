@@ -29,15 +29,13 @@ namespace Exercice1_JasonGrondin
                 int DecisionTypeDe = rnd.Next(1, 4);
 
                 if (DecisionTypeDe < 3)
-                {
-                    de = new DeNormal();
+                {                    
                     txtTypeDe.Text = "Normal";
                     type = TypeDe.Normal;
                     txtResultatDe.Text = GenererDeRandom().ToString();
                 }
                 else
                 {
-                    de = new DePipe();
                     txtTypeDe.Text = "Pipé";
                     type = TypeDe.Pipé;
                     txtResultatDe.Text = GenererDeRandom().ToString();
