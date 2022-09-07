@@ -1,0 +1,17 @@
+C:\Users\tijas\Desktop\ExerciceProg\Exercice1_JasonGrondin\Exercice1_JasonGrondin\obj\Debug\net6.0-windows\Exercice1_JasonGrondin.csproj.AssemblyReference.cache
+C:\Users\tijas\Desktop\ExerciceProg\Exercice1_JasonGrondin\Exercice1_JasonGrondin\obj\Debug\net6.0-windows\Exercice1_JasonGrondin.Form1.resources
+C:\Users\tijas\Desktop\ExerciceProg\Exercice1_JasonGrondin\Exercice1_JasonGrondin\obj\Debug\net6.0-windows\Exercice1_JasonGrondin.csproj.GenerateResource.cache
+C:\Users\tijas\Desktop\ExerciceProg\Exercice1_JasonGrondin\Exercice1_JasonGrondin\obj\Debug\net6.0-windows\Exercice1_JasonGrondin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tijas\Desktop\ExerciceProg\Exercice1_JasonGrondin\Exercice1_JasonGrondin\obj\Debug\net6.0-windows\Exercice1_JasonGrondin.AssemblyInfoInputs.cache
+C:\Users\tijas\Desktop\ExerciceProg\Exercice1_JasonGrondin\Exercice1_JasonGrondin\obj\Debug\net6.0-windows\Exercice1_JasonGrondin.AssemblyInfo.cs
+C:\Users\tijas\Desktop\ExerciceProg\Exercice1_JasonGrondin\Exercice1_JasonGrondin\obj\Debug\net6.0-windows\Exercice1_JasonGrondin.csproj.CoreCompileInputs.cache
+C:\Users\tijas\Desktop\ExerciceProg\Exercice1_JasonGrondin\Exercice1_JasonGrondin\bin\Debug\net6.0-windows\Exercice1_JasonGrondin.exe
+C:\Users\tijas\Desktop\ExerciceProg\Exercice1_JasonGrondin\Exercice1_JasonGrondin\bin\Debug\net6.0-windows\Exercice1_JasonGrondin.deps.json
+C:\Users\tijas\Desktop\ExerciceProg\Exercice1_JasonGrondin\Exercice1_JasonGrondin\bin\Debug\net6.0-windows\Exercice1_JasonGrondin.runtimeconfig.json
+C:\Users\tijas\Desktop\ExerciceProg\Exercice1_JasonGrondin\Exercice1_JasonGrondin\bin\Debug\net6.0-windows\Exercice1_JasonGrondin.dll
+C:\Users\tijas\Desktop\ExerciceProg\Exercice1_JasonGrondin\Exercice1_JasonGrondin\bin\Debug\net6.0-windows\Exercice1_JasonGrondin.pdb
+C:\Users\tijas\Desktop\ExerciceProg\Exercice1_JasonGrondin\Exercice1_JasonGrondin\obj\Debug\net6.0-windows\Exercice1_JasonGrondin.dll
+C:\Users\tijas\Desktop\ExerciceProg\Exercice1_JasonGrondin\Exercice1_JasonGrondin\obj\Debug\net6.0-windows\refint\Exercice1_JasonGrondin.dll
+C:\Users\tijas\Desktop\ExerciceProg\Exercice1_JasonGrondin\Exercice1_JasonGrondin\obj\Debug\net6.0-windows\Exercice1_JasonGrondin.pdb
+C:\Users\tijas\Desktop\ExerciceProg\Exercice1_JasonGrondin\Exercice1_JasonGrondin\obj\Debug\net6.0-windows\Exercice1_JasonGrondin.genruntimeconfig.cache
+C:\Users\tijas\Desktop\ExerciceProg\Exercice1_JasonGrondin\Exercice1_JasonGrondin\obj\Debug\net6.0-windows\ref\Exercice1_JasonGrondin.dll
